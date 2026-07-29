@@ -1,4 +1,4 @@
-# 🛡️ Fydelis Disk Forensics & Recovery
+# 🛡️ FydelisRecovery Forensics & Recovery
 
 > Ferramenta avançada de forense digital, recuperação de dados de baixo nível e gerenciamento de partições para ambientes Windows, desenvolvida em C#/.NET com interface WPF.
 
